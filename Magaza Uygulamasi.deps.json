@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Magaza Uygulamasi/1.0.0": {
+        "runtime": {
+          "Magaza Uygulamasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magaza Uygulamasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

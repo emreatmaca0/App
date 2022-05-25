@@ -1,0 +1,22 @@
+.card {
+    width: 272px;
+    height: 531px;
+    margin-bottom: 30px;
+}
+
+    .card img {
+        height: 650px;
+    }
+
+.urunfoto {
+    height: 384px;
+}
+
+.urundetay {
+    width: 400px;
+    height: 245px;
+}
+
+.card-footer {
+    border-top: 0px !important;
+}
