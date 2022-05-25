@@ -1,2 +1,3 @@
 # Store-App
- Simple store site design
+
+Basit bir mağaza sitesi tasarımı
